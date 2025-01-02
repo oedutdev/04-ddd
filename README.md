@@ -6,10 +6,10 @@ Design dirigido à domínio
 
 - Domain Experts
   - Conversa
-  
 - Linguagem ubíqua
 
 - Usuário
+
   - Client
   - Fornecedor
   - Atendente
